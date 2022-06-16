@@ -1,5 +1,4 @@
-# GateWay
-a gateway app to control electrical station 
+
 Libraries you should import
 import faulthandler
 from re import X
